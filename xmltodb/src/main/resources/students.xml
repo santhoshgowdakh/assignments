@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student>
+        <studentId>1</studentId>
+        <name>John</name>
+        <gender>male</gender>
+        <city>Hyd</city>
+    </student>
+    <student>
+        <studentId>2</studentId>
+        <name>John</name>
+        <gender>female</gender>
+        <city>blr</city>
+    </student>
+   <student>
+        <studentId>3</studentId>
+        <name>John</name>
+        <gender>male</gender>
+        <city>mum</city>
+    </student>
+ </students>

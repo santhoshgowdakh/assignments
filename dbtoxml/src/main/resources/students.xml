@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<studentId>1001</studentId>
+		<name>Torie</name>
+		<gender>Female</gender>
+		<city>Mumbai</city>
+	</student>
+	<student>
+		<studentId>1002</studentId>
+		<name>Dud</name>
+		<gender>Male</gender>
+		<city>Banglore</city>
+	</student>
+	<student>
+		<studentId>1003</studentId>
+		<name>Jolyn</name>
+		<gender>Male</gender>
+		<city>Pune</city>
+	</student>
+	<student>
+		<studentId>1004</studentId>
+		<name>Belle</name>
+		<gender>Female</gender>
+		<city>Hyderabad</city>
+	</student>
+	<student>
+		<studentId>1006</studentId>
+		<name>xyz</name>
+		<gender>male</gender>
+		<city>Hyderabad</city>
+	</student>
+</students>
